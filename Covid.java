@@ -1,7 +1,4 @@
-/*Assignment 2 Software Development & Testing
-Author: Sandra Fitzgerald L00144096
-Date: 27th of May 2021
-Covid Cases*/
+/*Covid Cases*/
 
 /*Covid class to record daily covid case numbers */
 import java.io.Serializable;
